@@ -1,16 +1,8 @@
-# dgg – MOVED TO CODEBERG
+# Project Moved to Codeberg ??
 
-⚠️ **This repository has moved to Codeberg.**
-New location: [https://codeberg.org/kpiarz/dgg](https://codeberg.org/kpiarz/dgg)
+The development of this project has been moved to Codeberg. You can find the latest version and all future updates here:
+
+**[https://codeberg.org/kpiarz/dgg](https://codeberg.org/kpiarz/dgg)**
 
 ---
-
-<div align="right">
-  Choose language: 🇺🇸 <b>English</b> | 🇵🇱 <a href="README.pl.md">Polski</a>
-</div>
-
-# dgg (De-Googling Guide)
-
-A minimalist guide and curated list of reliable, independent alternatives to the Google ecosystem.
-
-🌐 **Visit the website:** [https://kpiarz.codeberg.page/dgg/](https://kpiarz.codeberg.page/dgg/)
+*This repository on GitHub/GitLab is now archived and serves only as a redirection.*

@@ -1,16 +1,8 @@
-# dgg (Przewodnik De-Googlingu) â€“ PRZENIESIONO NA CODEBERG
+# Projekt przeniesiony na Codeberg ??
 
-âš ï¸ **To repozytorium zostaÅ‚o przeniesione na Codeberg.**
-Nowa lokalizacja: [https://codeberg.org/kpiarz/dgg](https://codeberg.org/kpiarz/dgg)
+Rozwój tego projektu zosta³ przeniesiony na platformê Codeberg. Najnowsz¹ wersjê oraz wszystkie przysz³e aktualizacje znajdziesz tutaj:
+
+**[https://codeberg.org/kpiarz/dgg](https://codeberg.org/kpiarz/dgg)**
 
 ---
-
-<div align="right">
-  Wybierz jÄ™zyk: ğŸ‡ºğŸ‡¸ <a href="README.md">English</a> | ğŸ‡µğŸ‡± <b>Polski</b>
-</div>
-
-# dgg (Przewodnik De-Googlingu)
-
-Minimalistyczny przewodnik i wyselekcjonowana lista niezawodnych, niezaleÅ¼nych alternatyw dla ekosystemu Google.
-
-ğŸŒ **OdwiedÅº stronÄ™:** [https://kpiarz.codeberg.page/dgg/](https://kpiarz.codeberg.page/dgg/)
+*To repozytorium na GitHub/GitLab jest teraz zarchiwizowane i s³u¿y jedynie jako przekierowanie.*
