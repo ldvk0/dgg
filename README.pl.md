@@ -1,4 +1,4 @@
-﻿<div align="right"><a href="README.md">🇺🇸 EN</a> | 🇵🇱 PL</div>
+<div align="right"><a href="README.md">🇺🇸 EN</a> | 🇵🇱 PL</div>
 
 # Projekt przeniesiony na CodeFloe 🧊
 
